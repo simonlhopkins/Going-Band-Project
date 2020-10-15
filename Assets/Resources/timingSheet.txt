@@ -1,0 +1,10 @@
+0.00 - Intro
+12.599- first instrumental measures
+24.998 - Sooner
+31.282 - SoonerMinigame
+37.374 - Vampire
+43.563 - VampireMinigame
+49.773 - Frogs
+55.971 - FrogsMinigame
+1m02.167 - CollectCall
+1m08.339 - CollectCallMinigame
